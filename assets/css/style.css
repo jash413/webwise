@@ -1731,7 +1731,7 @@ section {
 
 @media screen and (max-width: 992px) {
 lottie-player {
-  height: 300px !important;
-  width: 300px !important;
+  height: 400px !important;
+  width: 400px !important;
 }
 }
