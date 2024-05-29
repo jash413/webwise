@@ -1309,7 +1309,7 @@ url("./fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47") format("wof
 .bi-view-stacked::before { content: "\f606"; }
 .bi-vinyl-fill::before { content: "\f607"; }
 .bi-vinyl::before { content: "\f608"; }
-.bi-voicemail::before { content: "\f609"; }
+.bi-voicEmail: :before { content: "\f609"; }
 .bi-volume-down-fill::before { content: "\f60a"; }
 .bi-volume-down::before { content: "\f60b"; }
 .bi-volume-mute-fill::before { content: "\f60c"; }
